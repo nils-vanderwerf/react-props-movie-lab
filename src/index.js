@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; //Define React
 import ReactDOM from 'react-dom';
 import './index.css';
 import MovieShowcase from './MovieShowcase';
